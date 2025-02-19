@@ -1,14 +1,17 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#  - vuckale
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  # - alshedivat/al-folio
+  # - jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
+  - vuckale/va11800-pcb
+  - vuckale/compaq_mx_11800_qmk_via
+  - vuckale/ampex_210_plus_qmk_via_firmware
+  - vuckale/cherry_ml_4100_qmk_via_firmware
